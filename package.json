@@ -1,0 +1,13 @@
+{
+  "name": "dbht",
+  "description": "Database for Hypermedia Transport",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/db-ht/dbht.git"
+  },
+  "keywords": [],
+  "author": "Nathan Clevenger",
+  "license": "MIT",
+  "homepage": "https://db.ht"
+}
